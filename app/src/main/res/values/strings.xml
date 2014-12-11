@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="app_name">Bello</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="properties_array">
+        <item>Broadcast</item>
+        <item>Read</item>
+        <item>Write no response</item>
+        <item>Write</item>
+        <item>Notify</item>
+        <item>Indicate</item>
+        <item>Signed write</item>
+        <item>Extended props</item>
+    </string-array>
+
+
+    <string name="uuid">UUID: </string>
+    <string name="properties">Properties: </string>
+    <string name="devices">DEVICES</string>
+    <string name="scanning">SCANNING&#8230;</string>
+    <string name="not_scanning"></string>
+    <string name="services">SERVICES</string>
+    <string name="characteristics">CHARACTERISTICS</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="values">VALUES</string>
+    <string name="properties_big_case">PROPERTIES: </string>
+    <string name="hex">Hex</string>
+    <string name="ascii">ASCII</string>
+    <string name="decimal">Decimal</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="characteristic_write_success">Characteristic write success</string>
+    <string name="characteristic_write_fail">Characteristic write fail</string>
+    <string name="invalid_dec_value">Value is invalid. You have to input max 3 digits side by side and max value is 255.</string>
+    <string name="parse_problem">The problem occurred during characteristic parsing.</string>
+    <string name="ble_not_supported">Your phone does not support Bluetooth Low Energy technology. Application will be closed! </string>
+    <string name="bluetooth_not_supported">Your phone does not support Bluetooth technology. Application will be closed! </string>
+    <string name="no_bluetooth_dialog_text">You need Bluetooth to use this app. Switch on Bluetooth?</string>
+    <string name="no_bluetooth_dialog_title_text">Bluetooth is off</string>
+    <string name="aboutMenuCaption">About</string>
+    <string name="banner_text">Bluegiga Bluetooth 4.0 Modules</string>
+    <string name="rssi">RSSI: </string>
+    <string name="mac_address">Mac Address: </string>
+    <string name="no_devices_found">No devices found.</string>
+    <string name="advertisement_details">Show advertisement details</string>
+    <string name="advertisement_details_title">Advertisement details</string>
+    <string name="connecting_title">Bluetooth manager</string>
+    <string name="connecting">Connecting to device. Please wait&#8230;</string>
+    <string name="invalid_uuids_title_text">Invalid UUIDs</string>
+    <string name="invalid_uuids_text">There are more than one UUID with the same value. Please check device configuration.</string>
+    <string name="tree_view_unknown_error_title_text">Unknown error</string>
+    <string name="tree_view_unknown_error_text">Unknown error occurred while building user interface. Probably it can be something wrong with Bluetooth Low Energy device. Please check device configuration.</string>
+
+
+</resources>

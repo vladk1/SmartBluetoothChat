@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="BluegigaBlue">#007AC9</color>
+    <color name="BluegigaGreen">#8fc84e</color>
+    <color name="BluegigaLightBlue">#b2dcee</color>
+    <color name="BluegigaDarkGrey">#6d6e71</color>
+    <color name="BluegigaMediumGray">#e2e0dd</color>
+    <color name="BluegigaWhite">#ffffff</color>
+    <color name="LightBlue">#9CC1D1</color>
+    <color name="BannerStart">#9DB8E3</color>
+    <color name="BannerEnd">#DFE7F4</color>
+
+</resources>
